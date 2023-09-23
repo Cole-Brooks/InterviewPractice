@@ -3,8 +3,9 @@ This repository will contain practice interview problems that I've done and thei
 
 # Disclaimer
 **I DO NOT CLAIM THESE AS THE BEST SOLUTIONS, OR EVEN THAT THEY WILL WORK FOR EVERY INPUT. ONLY THAT THEY PASS WITH THE INPUT DATA I HAVE**
-If anyone reviews this code and has a better solution, I welcome comments on the code. Additionally, I welcome other solutions. If you have another method
-for solving a problem listed in the table below, or you have a solution in a language not found in this repository, feel free to create a pull request adding that solution.
+
+If anyone reviews this code and has a better solution, I welcome comments on the code. Also, I'd like to welcome other solutions. If you have another method
+for solving a problem listed in the table below, or if you have a solution in a language not found in this repository, feel free to create a pull request adding that solution.
 
 | Problem Name  | Description | Is Implemented |
 | ------------- | ------------- | --- |
