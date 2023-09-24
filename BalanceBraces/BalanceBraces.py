@@ -31,11 +31,11 @@ class BalanceBraces:
         self.clean_stack()
         return (balanced)
     
-def test(test_string):
+def test_against_sample_input(test_string):
     braceBalancer = BalanceBraces()
     print(test_string)
     print(braceBalancer.are_braces_balanced(test_string))
 
 if __name__=="__main__":
-    test_string = "[({[()()]})]()()[({[()()]})]()()[({[()()]})]()()[({[()()]})]()"
-    test(test_string)
+    sample_input = "[({[()()]})]()()[({[()()]})]()()[({[()()]})]()()[({[()()]})]()"
+    test_against_sample_input(sample_input)

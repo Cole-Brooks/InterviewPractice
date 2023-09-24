@@ -1,5 +1,7 @@
 # InterviewPractice
-This repository will contain practice interview problems that I've done and their solutions for reference in the future.
+This repository will contain practice interview problems that I've done, and their solutions for reference in the future.
+
+To maintain the solutions, I've used PyTest. To run tests, use `python -m pytest`.
 
 # Disclaimer
 **I DO NOT CLAIM THESE AS THE BEST SOLUTIONS, OR EVEN THAT THEY WILL WORK FOR EVERY INPUT. ONLY THAT THEY PASS WITH THE INPUT DATA I HAVE**
